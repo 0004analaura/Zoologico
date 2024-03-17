@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ZOO\\Zoologico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18BC68BF-FD17-4048-9EA2-5BE7B0DD82A8}|Zoologico\\Zoologico.csproj|c:\\users\\georg\\desktop\\universidad\\zoo\\zoologico\\zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BC68BF-FD17-4048-9EA2-5BE7B0DD82A8}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BC68BF-FD17-4048-9EA2-5BE7B0DD82A8}|Zoologico\\Zoologico.csproj|c:\\users\\georg\\desktop\\universidad\\zoo\\zoologico\\zoologico\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BC68BF-FD17-4048-9EA2-5BE7B0DD82A8}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BC68BF-FD17-4048-9EA2-5BE7B0DD82A8}|Zoologico\\Zoologico.csproj|c:\\users\\georg\\desktop\\universidad\\zoo\\zoologico\\zoologico\\visitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BC68BF-FD17-4048-9EA2-5BE7B0DD82A8}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\visitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visitas.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ZOO\\Zoologico\\Zoologico\\Visitas.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Visitas.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ZOO\\Zoologico\\Zoologico\\Visitas.cs",
+              "RelativeToolTip": "Zoologico\\Visitas.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAUwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:01:41.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animales.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ZOO\\Zoologico\\Zoologico\\Animales.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Animales.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ZOO\\Zoologico\\Zoologico\\Animales.cs",
+              "RelativeToolTip": "Zoologico\\Animales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T03:02:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ZOO\\Zoologico\\Zoologico\\Program.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ZOO\\Zoologico\\Zoologico\\Program.cs",
+              "RelativeToolTip": "Zoologico\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:44:10.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
